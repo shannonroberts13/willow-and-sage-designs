@@ -293,8 +293,8 @@
 
 .contact-text{
     display: inline-block;
-    width: 250px;
-    margin: 3.8rem;
+    width: 300px;
+    margin: 3rem;
     padding: 1rem;
     border: 2px solid var(--color-muted-sage);
     border-radius: 10px;
@@ -375,7 +375,7 @@
     }
 
     .contact-text {
-        width: 93%;
+        width: auto;
         margin: 2rem auto;
     }
 }
